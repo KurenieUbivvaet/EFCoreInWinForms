@@ -31,5 +31,5 @@ Database connections and code generation
 Step Three
 ==========
 
-Created our code...
+Сreate our code...
 -------------------
