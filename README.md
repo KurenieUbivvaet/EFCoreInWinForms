@@ -26,3 +26,10 @@ Database connections and code generation
 - Press ok and on the home page, press ok
 - Chuse Database Objects (choose what interests you)
 - In next window select next options: `Install the EF Core provider package in the peoject`, `Include connection string in genirated code` and optionally, you can specify folders for `Entity Types path` and `DbContext path`. Namespace change as desired.
+- Press ok and well done...
+
+Step Three
+==========
+
+Created our code...
+-------------------
